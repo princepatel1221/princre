@@ -1,11 +1,10 @@
-num1= 5
-num2= 10
+a= 6
+b= 13
 
-addition = num1 + num2
-subtraction = num1 - num2
-multiplication = num1 * num2
-division = num1 / num2  # Make sure num2 is not zero
-
+addition = a + b
+subtraction = a-b
+multiplication =a*b
+division = a/b
 
 print("Addition:", addition)
 print("Subtraction:", subtraction)
